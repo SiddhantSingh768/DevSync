@@ -1,0 +1,8 @@
+{
+  "name": "DevSync",
+  "description": "A high-performance, real-time collaborative Markdown editor for technical documentation, featuring synchronized editing, live previews, and document management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
