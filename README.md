@@ -13,20 +13,17 @@ This project was designed to showcase proficiency in building scalable, resilien
 ### 1. The Intelligent Workspace
 
 _A clean, glassmorphic dashboard for managing documentation, featuring real-time search and document status indicators._
-![Dashboard Interface](https://placehold.co/1200x675/f8fafc/10b981?text=Dashboard+Screenshot+Here)
-_(Add your screenshot at: `/screenshots/dashboard.png`)_
+![Dashboard Interface](/screenshots/dashboard.png)
 
 ### 2. Split-Pane Editor & AI Assistant
 
 _Seamless writing experience with real-time Markdown rendering. The integrated Gemini AI assistant helps generate code snippets and technical summaries instantly._
-![Editor Interface](https://placehold.co/1200x675/f8fafc/10b981?text=Editor+and+AI+Screenshot+Here)
-_(Add your screenshot at: `/screenshots/editor.png`)_
+![Editor Interface](/screenshots/editor.png)
 
 ### 3. Adaptive Dark Mode
 
 _Fully responsive dark mode designed with high-contrast syntax highlighting to reduce eye strain during late-night coding sessions._
-![Dark Mode Interface](https://placehold.co/1200x675/09090b/10b981?text=Dark+Mode+Screenshot+Here)
-_(Add your screenshot at: `/screenshots/darkmode.png`)_
+![Dark Mode Interface](/screenshots/workspace.png)
 
 ---
 
